@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# BN v14.1 — Web UI (with mic & TTS), Caretaker mode, learned viewer, blackout→sleep, GPS, autosave.
+# BN v14.5— Web UI (with mic & TTS), Caretaker mode, learned viewer, blackout→sleep, GPS, autosave.
 
 import os, sys, time, json, tempfile, threading
 from datetime import datetime, timezone
